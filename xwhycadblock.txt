@@ -6869,7 +6869,6 @@ www.dodo8.com##td[height="82"]
 www.down.cc##div.article_ad,div.test-240,div.search-test,div.test-60,div#ad_phone1,div#ad_phone2,div.img-220.md10,.dl-test,.test_80_href
 www.downcc.com##div#gaosuxiazai,.mg-t5
 www.downkr.com##[id^="union_"]
-www.downza.cn##div[class*="_banner"],.downnow,dl#param+div[style],.xzqan1
 www.duba.com##a.tiyan_a,div#js-ysjpp
 www.dychao.com##div#x-adtop-player,div#gdiv
 www.dygang.com##div#gd
