@@ -1,9 +1,6 @@
 [Adblock Plus]
 !  Homepage: http://bbs.theworld.cn/thread-224080-1-1.html
-!  abp/adb更新地址1:https://dl.dropboxusercontent.com/s/fxa01moelju9wa1/xwhycadblock.txt?dl=1&token_hash=AAGD7XELompxZkJIK_WFRejpD3x2BdPuU3D-CU48s69lNA(不更新了)
-!  abp/adb更新地址2:http://bbs.theworld.cn/attachment.php?aid=MTE0NDQ4fDUyZjc3Mjc3fDEzOTc5MTM1OTh8NDczMHBuYytiNk1yR0dQa2lqdGFyOXg1R29QNEVaUjJoYTNIb0U4bXFHeVM0eGM%3D
-!  反馈地址:http://bbs.theworld.cn/thread-224080-1-1.html
-!
+! Title: xwhycadblock
 !  Last Modified: 2017-1-2 16:33:26
 !  coding: utf-8, expires: 15 days
 !  --tw6 filters by xwhyc----7415---------------------------
