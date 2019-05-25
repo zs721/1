@@ -95,8 +95,6 @@
 @@|http://imgcache.qq.com/music/photo/
 @@|http://irs01.net/MTFlashStore.swf$domain=56.com
 @@|http://isdspeed.qq.com/cgi-bin/r.cgi?flag1=
-@@|http://js.adm.cnzz.net/appgcm.php?sid=$domain=400gb.com
-@@|http://js.adm.cnzz.net/prebat.php
 @@|http://js.olcdn.com/js/jquery-1.7.2.min.js$script
 @@|http://js.player.cntv.cn/*_bg_ad.js
 @@|http://jstv.
@@ -123,7 +121,6 @@
 @@|http://s.acs86.com/crossdomain.xml
 @@|http://s.csbew.com/FrameWork/AFP/ASP_
 @@|http://s.csbew.com/crossdomain.xml
-@@|http://s95.cnzz.com/z_stat.php?id=
 @@|http://serve.netsh.org/pub/
 @@|http://stat.adpush.cn?__=
 @@|http://static.hdslb.com/ad-images/$image
