@@ -543,7 +543,7 @@
 |http://*/Script/Ad/$script
 |http://*/Unika600x60.
 |http://*/UploadADPic/$image
-|http://*/Uploads/ad$domain=~qq.com
+|http://*/Uploads/ad$domain=~
 |http://*/VV_MOYU
 |http://*/Zotac600x60
 |http://*/a-d-j-s/
@@ -4122,9 +4122,6 @@
 ||lishuanghao.com
 ||liveadvert.com
 ||livehapp.com
-||livem.l.qq.com
-||livep.l.qq.com
-||lives.l.qq.com
 ||lndjj.com
 ||lnr2.com
 ||loandatec.com
