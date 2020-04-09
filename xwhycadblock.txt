@@ -6258,7 +6258,6 @@ nuoqiu.com##SPAN.baidu,DIV.parttop[style="height:90px;"]
 nyhx.com##div.adv_box
 oeeee.com##div.module-ad,div.ad-w240,div.ad-w720
 oeofo.com##.banner,.fixediv,.news-banner02
-ofweek.com##div#wearBanner,div.ad240,div.ad250,div.ad300,div[class^="ad728"],.duilian,.ad,.con_ad_box,#flybox-db,.word_ad
 omyy.com##.indexadv,[height="60"]
 onehd.cc##.portal_block_summary
 onhax.net##div#mid_promo_right
