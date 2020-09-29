@@ -4313,7 +4313,6 @@
 ||propellerads.com
 ||prscripts.com/pub
 ||ps.haohaowan8.com
-||pstatp.com/origin/$domain=~toutiao.com
 ||pstatp.com/site/reads-sdk/$script
 ||ptfish.com/08html/ggf/cptdgg.html
 ||pub.funshion.com
